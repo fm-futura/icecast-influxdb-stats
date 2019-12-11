@@ -1,0 +1,3 @@
+recursive-include icecast_influxdb_stats *
+include README.md
+include LICENSE.txt
